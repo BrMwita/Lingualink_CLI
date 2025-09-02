@@ -38,6 +38,6 @@ Run tests: `python -m pytest tests/`
 
 Watch the full demo of LinguaLink CLI Manager:
 
-[![LinguaLink CLI Demo](https://www.loom.com/share/e811c9ec027d45e1baeecd9a517e3a96?sid=dff0b767-579f-4e13-ae1a-0313f0ecdbb8)
+[![LinguaLink CLI Demo](https://www.loom.com/share/e811c9ec027d45e1baeecd9a517e3a96?sid=7af64d25-3e06-4bd5-bea3-a31df6c2485c)
 
 **Click the image above to watch the full video demonstration**
